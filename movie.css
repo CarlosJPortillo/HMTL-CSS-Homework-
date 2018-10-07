@@ -1,0 +1,29 @@
+body {background-image:url(background.png); font-size: 8pt; font-family:Verdana; margin:0; padding:0;}
+.banner { background-image:url(bannerbackground.png); background-size:auto 50px;}
+.bannerImg{position:relative;left:200px;}
+h1{ text-align: center; font-size: 24pt; font-weight:bold; font-family:Verdana;}
+#Main_Box { width:800px; margin-left:auto; margin-right:auto; border: 4px solid gray;}
+.Left_Box {width:550px; margin:0; }
+.overview {float:right; width: 250px;}
+.Right_Box{width:230px; float:right; background-color:A2B964; font-family:Arial; 
+padding-left: 10px; padding-right: 10px;}
+.Left_top {font-size:48pt; font-weight:bold; color:red; background-image:url(rottenbackground.png); 
+background-size: auto 83px; } 
+.imgcomment{
+	margin-right: 5px;
+	float:left;"
+}
+img.top{
+	
+	vertical-align: text-bottom;
+}
+.comment {background-color:E1D697; border: 2px solid gray; width: 244.5px; font-weight: bold; padding-left:
+5px; padding-bottom: 5px; padding-top: 5px; padding-right: 5px;} 
+.criticcomment { padding-left: 5px; margin-top: 10px; margin-bottom:3em;}
+.left_column { padding: 11px 0px 11px 11px; float:left;}
+.right_column { padding: 11px 11px 11px 11px; float:left;} 
+dt {font-weight:bold; margin-top:1em;}
+.bottom {background-color:A2B964; width:400px; padding-top:5px; padding-bottom:5px; padding-left:400px}
+p {margin-top:0px}
+
+
